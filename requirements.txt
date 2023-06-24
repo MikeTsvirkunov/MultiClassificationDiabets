@@ -1,0 +1,6 @@
+numpy==1.23
+pandas
+tensorflow
+sklearn
+imbalanced-learn
+matplotlib
